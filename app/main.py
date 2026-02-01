@@ -1,9 +1,13 @@
 from flask import Flask, render_template, request, redirect, session
 from app.database import get_connection
+from app.init_db import init
 import os
 
 app = Flask(__name__)
 app.secret_key = "supersecretkey"
+
+# Auto-create database tables when server starts
+init()
 
 
 @app.route("/login", methods=["GET", "POST"])
