@@ -1,4 +1,4 @@
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://render.com/docs/web-services#port-binding)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://python-hotel-management-system-1.onrender.com)
 
 
 # 🏨 Hotel Management System (Web App)
@@ -6,7 +6,7 @@
 A modern web-based Hotel Property Management System built with Flask and SQLite.  
 This system automates customer management, room booking, and billing operations in a clean dashboard interface.
 
-🔗 Live Demo: https://render.com/docs/web-services#port-binding
+🔗 Live Demo: https://python-hotel-management-system-1.onrender.com
 
 ---
 
